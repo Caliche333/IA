@@ -1,1 +1,3 @@
-#Proyecto de Redes neuronales de reconocimiento Facial
+#Proyecto de Redes neuronales
+
+Proyecto para el reconocimiento facial con redes neuronales entrenadas 
